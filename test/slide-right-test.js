@@ -3,7 +3,7 @@ var slideRight = require('../lib/slide-right');
 
 describe('slideRight', function () {
   
-  it('should move a single element to the left', function () {
+  it('should move a single element to the right', function () {
     
     var expectedOutput = [null, null, null, 2];
 
