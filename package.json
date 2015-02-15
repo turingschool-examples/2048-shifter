@@ -1,0 +1,14 @@
+{
+  "name": "2048-shifter",
+  "version": "1.0.0",
+  "description": "A shifting function for 2048",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test"
+  },
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
